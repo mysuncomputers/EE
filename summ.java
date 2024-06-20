@@ -1,3 +1,5 @@
 main {
-    
+    static void {
+        
+    }
 }
